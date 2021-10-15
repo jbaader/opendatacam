@@ -46,7 +46,11 @@
     "turquoise": "#A3FFF4",
     "green": "#a0f17f",
     "purple": "#d070f0",
-    "red": "#AB4435"
+    "red": "#AB4435",
+    "blue": "#003cff",
+    "orange": "#ffa200",
+    "pink": "#ff52ab"
+    
   },
   "NEURAL_NETWORK_PARAMS": {
     "yolov4": {
