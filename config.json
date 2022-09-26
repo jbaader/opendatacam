@@ -58,6 +58,11 @@
       "cfg": "cfg/yolov4-416x416.cfg",
       "weights": "yolov4.weights"
     },
+    "yolov4-tiny-new": {
+      "data": "cfg/coco6.data",
+      "cfg": "cfg/yolov4-tiny-custom.cfg",
+      "weights": "yolov4-tiny-custom.weights"
+    },
     "yolov4-tiny": {
       "data": "cfg/coco.data",
       "cfg": "cfg/yolov4-tiny.cfg",
